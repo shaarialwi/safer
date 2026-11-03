@@ -1,0 +1,15 @@
+[
+  {
+    "id": "replace-with-authority-id",
+    "name": "TEMPLATE ONLY — replace with approved shelter",
+    "area": "Replace with district and address",
+    "lat": 3.05,
+    "lon": 101.7,
+    "hazards": ["flood"],
+    "status": "closed",
+    "accessible": false,
+    "source": "Replace with responsible authority and official source URL",
+    "verifiedAt": "2020-01-01T00:00:00+08:00",
+    "expiresAt": "2020-01-02T00:00:00+08:00"
+  }
+]
